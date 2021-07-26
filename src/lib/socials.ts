@@ -26,27 +26,27 @@ const socials: Social[] = [
     //     bgColor: '#3b5998',
     //     color: '#ffffff'
     // },
-    // {
-    //     name: 'Instagram',
-    //     url: '',
-    //     icon: faInstagram,
-    //     bgColor: '#4c5fd7',
-    //     color: '#ffffff'
-    // },
-    // {
-    //     name: 'Twitter',
-    //     url: '',
-    //     icon: faTwitter,
-    //     bgColor: '#1da1f2',
-    //     color: '#ffffff'
-    // },
-    // {
-    //     name: 'Github',
-    //     url: '',
-    //     icon: faGithub,
-    //     bgColor: '#000000',
-    //     color: '#ffffff'
-    // },
+    {
+        name: 'Instagram',
+        url: 'https://www.instagram.com/tunadestroy/',
+        icon: faInstagram,
+        bgColor: '#4c5fd7',
+        color: '#ffffff'
+    },
+    {
+        name: 'Twitter',
+        url: 'https://twitter.com/TunaDestroy',
+        icon: faTwitter,
+        bgColor: '#1da1f2',
+        color: '#ffffff'
+    },
+    {
+        name: 'Github',
+        url: 'https://github.com/joeoftheforsythe',
+        icon: faGithub,
+        bgColor: '#000000',
+        color: '#ffffff'
+    },
     // {
     //     name: 'Twitch',
     //     url: '',
@@ -68,13 +68,13 @@ const socials: Social[] = [
     //     bgColor: '#ea4c89',
     //     color: '#ffffff'
     // },
-    // {
-    //     name: 'LinkedIn',
-    //     url: '',
-    //     icon: faLinkedin,
-    //     bgColor: '#0a66c2',
-    //     color: '#ffffff'
-    // }
+    {
+        name: 'LinkedIn',
+        url: 'https://www.linkedin.com/in/forsythejoseph/',
+        icon: faLinkedin,
+        bgColor: '#0a66c2',
+        color: '#ffffff'
+    }
 ];
 
 export default socials;
